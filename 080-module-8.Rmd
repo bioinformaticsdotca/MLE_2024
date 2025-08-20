@@ -1,0 +1,9 @@
+# Module 8: Coding and Information Extraction with ChatGPT
+
+## Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4vob5ATpFxw?si=gc8IR1uFNviJWHBZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1zB6f3TCz9jAFwDLwQSPqG5m585L5_Bhs/preview" width="640" height="480" allow="autoplay"></iframe>
